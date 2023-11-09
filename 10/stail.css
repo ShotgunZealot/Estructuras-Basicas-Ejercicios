@@ -1,0 +1,33 @@
+body{
+    background-color: #f0f0f0;
+}
+
+.jeader{
+    background-image: url(image1.jpg);
+ background-repeat: no-repeat;
+ color: white;
+ padding: 5px;
+ background-size: cover;
+}   
+.title{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.activities{
+margin-right: 300px;
+justify-content: left;
+text-align: left;
+}
+.image{
+padding: 50px;
+border-radius: 10px;
+max-width: 1000;
+background-color: #e3e3e3;
+margin-left: 50px;
+margin-right: 50px;
+    display: flex;
+}
+img{
+    border-radius: 10px;
+}
