@@ -1,0 +1,30 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: orange;
+    font-size: 18px;
+}
+
+.title {
+    background-color: rgb(255, 119, 0);
+    color: white;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.content{
+margin-left: 300px;
+margin-right: 300px;
+padding: 40px;
+background-color: rgb(255, 108, 29)  ;
+}
+.image{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}

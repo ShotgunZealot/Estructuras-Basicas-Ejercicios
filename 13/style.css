@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: beige;
+    font-size: 20px;
+}
+.title{
+    display: flex;
+    background-color: burlywood ;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+}
+.subtitle{
+justify-content: center;
+text-align: center;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+.content{
+margin-left: 390px;
+margin-right: 390px;
+text-align: justify;
+}

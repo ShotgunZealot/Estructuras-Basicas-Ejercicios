@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-size: 18px;
+    background-color: white;
+
+}
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: red;
+    height: 80px;
+}
+.content{
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 50px;
+    background-color: rgb(238, 238, 238);
+}
+table{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-collapse: collapse;
+    margin-bottom: 10px;
+}
+th, td{
+    border: 1px solid black;
+    padding: 10px;
+}
+th{
+    background-color: rgb(255, 97, 97);
+}
+td{
+    background-color: white;
+}

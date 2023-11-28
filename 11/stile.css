@@ -1,0 +1,44 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+
+body {
+    background-color: rgb(48, 48, 48);
+    color: white;
+
+}
+
+.title {
+    height: 65px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color: rgb(177, 39, 39);
+
+}
+
+.post {
+    display: flex;
+    margin-left: 200px;
+
+}
+
+.postP {
+    margin-left: 40px;
+}
+
+.trailer {
+    margin-left: 200px;
+}
+
+.stuffedtext {
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 10px;
+    border-radius: 10px;
+    width: 600px;
+    background-color: rgb(155, 39, 39);
+}

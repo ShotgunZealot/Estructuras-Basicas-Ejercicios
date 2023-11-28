@@ -1,0 +1,22 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: rgb(73, 10, 71);
+    color: white;
+}
+.title{
+    display: flex;
+    align-items: center;
+    height: 60px;
+    background-color: rgb(226, 43, 73);
+padding-left: 100px;
+}
+.list{
+background-color: rgb(157, 118, 255);
+border-radius: 10px;
+margin-left: 300px;
+margin-right: 300px;
+padding: 30px;
+}
